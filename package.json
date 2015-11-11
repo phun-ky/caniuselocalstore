@@ -1,0 +1,11 @@
+{
+  "name": "caniuselocalstore",
+  "version": "1.0.0",
+  "description": "A small module to detect if localStorage can be used",
+  "main": "index.js",
+  "keywords": [
+    "localStorage"
+  ],
+  "author": "Alexander Vassbotn Røyne-Helgesen",
+  "license": "MIT"
+}
